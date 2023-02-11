@@ -1,0 +1,6 @@
+Update symbol R2 from 'Device:R' to 'Device:R': OK
+Update symbol SW1 from 'Switch:SW_SPDT' to 'Switch:SW_SPDT': OK
+Update symbol V1 from 'Connector:Conn_01x02_Male' to 'Connector:Conn_01x02_Male': OK
+Update symbol C1 from 'Device:C_Polarized' to 'Device:C_Polarized': OK
+Update symbol D1 from 'Device:LED' to 'Device:LED': OK
+Update symbol R1 from 'Device:R' to 'Device:R': OK
